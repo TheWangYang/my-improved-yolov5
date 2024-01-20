@@ -1,0 +1,1 @@
+Here the yolov5 related pre-training weights are stored.
